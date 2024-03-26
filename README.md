@@ -28,7 +28,7 @@
   ![image](https://github.com/junyealim/chatbot/assets/149549323/86e44e68-d011-4d66-9e17-e7a44106057a)
 
 
-#### Model 🚀
+#### 🚀 Model 
 - 문장 학습 모델
 - GPT2LMHeadModel.from_pretrained(skt/kogpt2-base-v2)
 - GPT2LMHeadModel 클래스에서 사전 훈련된 'skt/kogpt2-base-버전2' 모델을 불러옴
@@ -40,7 +40,7 @@
 <br>
 
 -----------------  
-# **앱설명 🎨**
+# **🎨 앱설명**
 ![image](https://github.com/junyealim/chatbot/assets/149549323/2a3785ff-9eee-4bb2-af0c-7340e9bac549)
 
 ![image](https://github.com/junyealim/chatbot/assets/149549323/76f95223-ea5d-45db-9a27-ac39be2eac87)
